@@ -1,0 +1,4 @@
+The android checkbox app is supposed to prompt a user to select some items using a checkbox.
+And then after checking them, he has to press the submit button then all the writings on the boxes (Text property)
+they will be passed to the toast event using Java Onclick listener. 
+
